@@ -1,1 +1,1 @@
-# Olá, bem vindo ao meu primeiro projeto em JavaScript! 
+# Olá, bem vindo ao meu primeiro projeto de JavaScript! 
